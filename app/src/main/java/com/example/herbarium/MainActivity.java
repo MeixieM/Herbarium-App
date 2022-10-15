@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
             String[] classes = {"Akapulko", "Ampalaya", "Balbas-pusa", "Guava", "Lagundi", "Malunggay", "Niyog-niyogan", "Oregano", "Sambong", "Tsaang gubat",
                     "Ulasimang bato", "Yerba"};
             result.setText(classes[maxPos]);
-
+        
             // Releases model resources if no longer used.
             model.close();
         } catch (IOException e) {
