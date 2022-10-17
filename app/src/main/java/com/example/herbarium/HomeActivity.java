@@ -8,8 +8,14 @@ import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+import com.denzcoskun.imageslider.ImageSlider;
+import com.denzcoskun.imageslider.constants.ScaleTypes;
+import com.denzcoskun.imageslider.models.SlideModel;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class HomeActivity extends AppCompatActivity {
     BottomNavigationView bottomNavigationView;
@@ -21,6 +27,17 @@ public class HomeActivity extends AppCompatActivity {
 
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
+        ImageSlider imageSlider = findViewById(R.id.slider);
+        List<SlideModel> slideModels = new ArrayList<>();
+
+        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+
+
+        imageSlider.setImageList(slideModels,ScaleTypes.FIT);
 
         bottomNavigationView = findViewById(R.id.bottom_navigator);
         bottomNavigationView.setSelectedItemId(R.id.home);

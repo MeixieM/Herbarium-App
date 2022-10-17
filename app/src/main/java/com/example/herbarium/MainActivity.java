@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.media.ThumbnailUtils;
 import android.net.Uri;
 import android.os.Bundle;
@@ -36,10 +37,11 @@ public class MainActivity extends AppCompatActivity {
 
     BottomNavigationView bottomNavigationView;
 
-    ImageButton camera;
-    Button  gallery;
+    Button  details, gallery, camera;
     ImageView imageView;
     TextView result;
+
+    public static final String KEY1 = "plantResult";
 
     int imageSize = 224; //change the image size
 
@@ -75,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
 
         camera = findViewById(R.id.button);
         gallery = findViewById(R.id.button2);
+        details = findViewById(R.id.btn_details);
 
         result = findViewById(R.id.result);
         imageView = findViewById(R.id.imageView);
@@ -96,6 +99,17 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent cameraIntent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
                 startActivityForResult(cameraIntent, 1);
+            }
+        });
+
+        details.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(result.getText() == "Akapulko"){
+                    Intent intent = new Intent(MainActivity.this, AkapulkoActivity.class);
+                    startActivity(intent);
+                }
+
             }
         });
     }
@@ -141,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
             String[] classes = {"Akapulko", "Ampalaya", "Balbas-pusa", "Guava", "Lagundi", "Malunggay", "Niyog-niyogan", "Oregano", "Sambong", "Tsaang gubat",
                     "Ulasimang bato", "Yerba"};
             result.setText(classes[maxPos]);
-        
+            details.setVisibility(View.VISIBLE);
             // Releases model resources if no longer used.
             model.close();
         } catch (IOException e) {
