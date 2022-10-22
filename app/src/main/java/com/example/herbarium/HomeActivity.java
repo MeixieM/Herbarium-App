@@ -30,11 +30,11 @@ public class HomeActivity extends AppCompatActivity {
         ImageSlider imageSlider = findViewById(R.id.slider);
         List<SlideModel> slideModels = new ArrayList<>();
 
-        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
-        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
-        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
-        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
-        slideModels.add(new SlideModel(R.drawable.akapulko,"\t Akapulko \n\t Senna Alata",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.balbas_pusa,"\t Balbas-pusa \n\t Orthosiphon aristatus",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.lagundi,"\t Lagundi \n\t Vitex negundo",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.sambong,"\t Sambong \n\t Blumea balsamifera",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.tsaang_gubat,"\t Tsaang Gubat \n\t Carmona retusa",ScaleTypes.FIT));
+        slideModels.add(new SlideModel(R.drawable.yerba,"\t Yerba \n\t Clinopodium douglasii",ScaleTypes.FIT));
 
 
         imageSlider.setImageList(slideModels,ScaleTypes.FIT);
