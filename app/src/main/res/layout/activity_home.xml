@@ -20,7 +20,7 @@
         app:iss_placeholder="@drawable/placeholder" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonhome"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_below="@+id/slider"

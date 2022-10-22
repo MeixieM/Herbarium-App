@@ -41,8 +41,6 @@ public class MainActivity extends AppCompatActivity {
     ImageView imageView;
     TextView result;
 
-    public static final String KEY1 = "plantResult";
-
     int imageSize = 224; //change the image size
 
     @Override

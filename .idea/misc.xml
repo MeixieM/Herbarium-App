@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/border.xml" value="0.1225" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/btn_background.xml" value="0.19" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/button_selector.xml" value="0.218" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/custom_button.xml" value="0.12" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/details_button.xml" value="0.246" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/green_button.xml" value="0.19" />
@@ -16,12 +18,17 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.19" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/ic_splashscreen.xml" value="0.19" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/drawable/selector.xml" value="0.12" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activitiy_main.xml" value="0.5478515625" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_akapulko.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_camera.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_faqactivity.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_home.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_list_item.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_main.xml" value="0.4" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_more.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_more.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_splash.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_tips.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_tosactivity.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/fragment_camera.xml" value="0.24270833333333333" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/fragment_home.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/fragment_more.xml" value="0.24270833333333333" />

@@ -4,8 +4,7 @@
     package="com.example.herbarium">
 
     <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.INTERNET" >
-    </uses-permission>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -17,6 +16,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Herbarium"
         tools:targetApi="31">
+        <activity
+            android:name=".TOSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FAQActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipsActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".AkapulkoActivity"
             android:exported="false"
