@@ -106,6 +106,9 @@ public class MainActivity extends AppCompatActivity {
                 if(result.getText() == "Akapulko"){
                     Intent intent = new Intent(MainActivity.this, AkapulkoActivity.class);
                     startActivity(intent);
+                } else if (result.getText() == "Ampalaya") {
+                    Intent intent = new Intent(MainActivity.this, AkapulkoActivity.class);
+                    startActivity(intent);
                 }
 
             }

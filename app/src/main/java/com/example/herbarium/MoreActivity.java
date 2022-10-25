@@ -52,21 +52,21 @@ public class MoreActivity extends AppCompatActivity {
             }
         });
 
-        buttonTips.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MoreActivity.this, TipsActivity.class);
-                startActivity(intent);
-            }
-        });
-
-        buttonFAQ.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MoreActivity.this, FAQActivity.class);
-                startActivity(intent);
-            }
-        });
+//        buttonTips.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(MoreActivity.this, TipsActivity.class);
+//                startActivity(intent);
+//            }
+//        });
+//
+//        buttonFAQ.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                Intent intent = new Intent(MoreActivity.this, FAQActivity.class);
+//                startActivity(intent);
+//            }
+//        });
 
         buttonTOS.setOnClickListener(new View.OnClickListener() {
             @Override

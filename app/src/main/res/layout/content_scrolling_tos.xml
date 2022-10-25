@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".AkapulkoActivity"
+    tools:showIn="@layout/activity_akapulko">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        >
+
+
+        <TextView
+            android:id="@+id/txt_p1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp1"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+
+        <TextView
+            android:id="@+id/txt_h1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/tosH1"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_p1"
+            />
+
+        <TextView
+            android:id="@+id/txt_p2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp2"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_h1"
+            />
+
+
+        <TextView
+            android:id="@+id/txt_h2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primary_green"
+            android:text="@string/tosH2"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_p2"
+            />
+
+        <TextView
+            android:id="@+id/txt_p3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp3"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_h2"
+            />
+
+        <TextView
+            android:id="@+id/txt_h3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/tosH3"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_p3"
+            />
+
+        <TextView
+            android:id="@+id/txt_p4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp4"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_h3"
+            />
+
+        <TextView
+            android:id="@+id/txt_h4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/tosH4"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_p4"
+            />
+
+        <TextView
+            android:id="@+id/txt_p5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp5"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_h4"
+            />
+
+        <TextView
+            android:id="@+id/txt_h5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/tosH5"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_p5"
+            />
+
+        <TextView
+            android:id="@+id/txt_p6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TOSp6"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_h5"
+            />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</androidx.core.widget.NestedScrollView>

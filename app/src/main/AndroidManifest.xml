@@ -17,20 +17,20 @@
         android:theme="@style/Theme.Herbarium"
         tools:targetApi="31" >
         <activity
+            android:name=".TOSActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tosactivity"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".AmpalayaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_ampalaya"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
             android:name=".AkapulkoActivity"
             android:exported="false"
             android:label="@string/title_activity_akapulko"
             android:theme="@style/Theme.Herbarium.NoActionBar" />
-        <activity
-            android:name=".TOSActivity"
-            android:exported="false" />
-        <activity
-            android:name=".FAQActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TipsActivity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="false"
