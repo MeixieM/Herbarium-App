@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Herbarium</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    Home Activity-->
+    <string name="home_btn_tips"> \t <b>Tips on taking pictures</b> \n \t Tap here to learn more</string>
+<!--Home Activity -->
+
 </resources>
