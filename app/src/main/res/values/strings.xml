@@ -25,30 +25,30 @@
     </string>
 
     <string name="titleBenefitsAkapulko"><b>Benefits and Treatment</b></string>
-    <string name="large_text2">• <b>External Use:</b>
+    <string name="large_text2">● <b>External Use:</b>
 Treatment of skin diseases:
 \n Tinea infections, insect bites, ringworms, eczema, scabies and itchiness. \n
-• Mouthwash in stomatitis \n\n
+● Mouthwash in stomatitis \n\n
 
-• <b>Internal use:</b>
+● <b>Internal use:</b>
 Expectorant for bronchitis and dyspnoea \n
-• Alleviation of asthma symptoms \n
-• Used as diuretic and purgative \n
-• For cough and fever \n
-• As a laxative to expel intestinal parasites and other stomach problems. \n\n
+● Alleviation of asthma symptoms \n
+● Used as diuretic and purgative \n
+● For cough and fever \n
+● As a laxative to expel intestinal parasites and other stomach problems. \n\n
 
 <b>Note:</b> A strong decoction of Akapulko leaves is an abortifacient. Pregnant women should not take the decoction of the leaves or any part of this plant. \n
 
     </string>
 
     <string name="titleUseAkapulko"><b>Preparation and Use:</b></string>
-    <string name="large_text3">• For external use, pound the leaves of the Akapulko plant, squeeze the juice and apply on affected areas. \n\n
+    <string name="large_text3">● For external use, pound the leaves of the Akapulko plant, squeeze the juice and apply on affected areas. \n\n
 
-• As the expectorant for bronchitis and dyspnoea, drink decoction (soak and boil for 10 to 15 minutes) of Akapulko leaves. The same preparation may be used as a mouthwash, stringent, and wash for eczema. \n\n
+● As the expectorant for bronchitis and dyspnoea, drink decoction (soak and boil for 10 to 15 minutes) of Akapulko leaves. The same preparation may be used as a mouthwash, stringent, and wash for eczema. \n\n
 
-• As laxative, cut the plant parts (roots, flowers, and the leaves) into a manageable size then prepare a decoction Note: The decoction loses its potency if not used for a long time. Dispose leftovers after one day. \n\n
+● As laxative, cut the plant parts (roots, flowers, and the leaves) into a manageable size then prepare a decoction Note: The decoction loses its potency if not used for a long time. Dispose leftovers after one day. \n\n
 
-• The pounded leaves of Akapulko have purgative functions, specifically against ringworms. \n\n
+● The pounded leaves of Akapulko have purgative functions, specifically against ringworms. \n\n
 
 It should be noted that the pounded leaves of this plant may be applied thinly on the affected part twice a day. Marked improvement may be expected after two to three weeks of continuous application to the affected area(s) where the prepared Akapulko leaves were applied.
 
@@ -149,7 +149,7 @@ It should be noted that the pounded leaves of this plant may be applied thinly o
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_ampalaya">AmpalayaActivity</string>
+
 
     <string name="title_activity_tosactivity">Terms Of Service \n</string>
     <string name="TOSp1">This End-User License Agreement (“EULA”) constitutes an agreement between you and Herbarium. (herein referred to as the “Owner”) with regard to the application for Mobile Phones (herein referred to as “Apps”). By installing the Software, you are agreeing to be bound by the terms of this license agreement.
@@ -189,21 +189,21 @@ Because some states/countries do not allow certain limitations of liability, thi
     <string name="DescriptionTG">Also known as ringworm bush, the scientific name of akapulko is Cassia alata or Senna alata. It is basically a shrub that is found all throughout the Philippines under different names, depending on the region. \n
     </string>
 
-    <string name="BenefitsTG"> • Stomach pains \n\n
-• Gastroenteritis \n\n
-• Intestinal motility \n\n
-• Dysentery \n\n
-• Diarrhea or Loose Bowel Movement (LBM) \n\n
-• Mouth gargle \n\n
-• Body cleanser/wash \n\n
+    <string name="BenefitsTG"> ● Stomach pains \n\n
+● Gastroenteritis \n\n
+● Intestinal motility \n\n
+● Dysentery \n\n
+● Diarrhea or Loose Bowel Movement (LBM) \n\n
+● Mouth gargle \n\n
+● Body cleanser/wash \n\n
 
 
     </string>
 
-    <string name="useTG">• Thoroughly wash the leaves of tsaang gubat in running water. Chop to a desirable size and boil 1 cup of chopped leaves in 2 cups of water. Boil in low heat for 15 to 20 minutes and drain. \n\n
-• Take a cupful every 4 hours for diarrhea, gastroenteritis and stomach pains.\n\n
-• Gargle for stronger teeth and prevent cavities.\n\n
-• Drink as tea daily for general good health.\n\n
+    <string name="useTG">● Thoroughly wash the leaves of tsaang gubat in running water. Chop to a desirable size and boil 1 cup of chopped leaves in 2 cups of water. Boil in low heat for 15 to 20 minutes and drain. \n\n
+● Take a cupful every 4 hours for diarrhea, gastroenteritis and stomach pains.\n\n
+● Gargle for stronger teeth and prevent cavities.\n\n
+● Drink as tea daily for general good health.\n\n
 
 
     </string>
@@ -225,28 +225,28 @@ Because some states/countries do not allow certain limitations of liability, thi
     <string name="descriptionOregano">Oregano is also known as Wild Marjoram, Mountain Mint, Origanum, Wintersweet and Winter Marjoram. This erectly spreading plant has strong aromatic characteristics, with leaves and stems that are fleshy. The leaves of oregano are heart-shaped, with toothed edges, and which, grow up to 9 meters in length. In other countries, the plant is primarily used as a culinary ingredient. However, in countries like the Philippines, Oregano is a known herbal medicine for its strong anti-oxidant properties. \n
     </string>
 
-    <string name="benefitsOregano"> • Good for cough and cold relief \n\n
-• Helps prevent degenerative arthritis \n\n
-• Has Anti-aging properties \n\n
-• Helps relieve rheumatism and osteoarthritis \n\n
-• Bronchitis herbal remedy \n\n
-• Ease asthma attacks \n\n
-• Relieves upset stomach \n\n
-• Treatment of urinary tract problems \n\n
-• Relief for dyspepsia or indigestion \n\n
-• Healing wounds, insect bites and stings \n\n
-• Cure for sore throat \n\n
-• Avoid infections caused by childbirth by taking decoctions of the leaves by the recent mother. \n\n
-• For general good health \n\n
+    <string name="benefitsOregano"> ● Good for cough and cold relief \n\n
+● Helps prevent degenerative arthritis \n\n
+● Has Anti-aging properties \n\n
+● Helps relieve rheumatism and osteoarthritis \n\n
+● Bronchitis herbal remedy \n\n
+● Ease asthma attacks \n\n
+● Relieves upset stomach \n\n
+● Treatment of urinary tract problems \n\n
+● Relief for dyspepsia or indigestion \n\n
+● Healing wounds, insect bites and stings \n\n
+● Cure for sore throat \n\n
+● Avoid infections caused by childbirth by taking decoctions of the leaves by the recent mother. \n\n
+● For general good health \n\n
 
 
     </string>
 
-    <string name="useOregano">• Boil one cup of fresh leaves in 3 cups of water for 10 to 15 minutes. Drink half a cup 3 times a day for common colds. \n\n
-• For a concentrate, juice the oregano leaves and take 1 tablespoon every hour to relieve chronic coughs, rheumatism, bronchitis, asthma, and dyspepsia. \n\n
-• For Insect bites, wounds and stings, apply the leaves as a poultice directly on the afflicted area. \n\n
-• For sore throat, boil 2 tablespoonfuls of dried oregano leaves in a pint of water, take 2 hours before or after meals. \n\n
-• To prevent degenerative arthritis and for general good health drink oregano decoction daily. \n\n
+    <string name="useOregano">● Boil one cup of fresh leaves in 3 cups of water for 10 to 15 minutes. Drink half a cup 3 times a day for common colds. \n\n
+● For a concentrate, juice the oregano leaves and take 1 tablespoon every hour to relieve chronic coughs, rheumatism, bronchitis, asthma, and dyspepsia. \n\n
+● For Insect bites, wounds and stings, apply the leaves as a poultice directly on the afflicted area. \n\n
+● For sore throat, boil 2 tablespoonfuls of dried oregano leaves in a pint of water, take 2 hours before or after meals. \n\n
+● To prevent degenerative arthritis and for general good health drink oregano decoction daily. \n\n
 
     </string>
 
@@ -277,6 +277,301 @@ Because some states/countries do not allow certain limitations of liability, thi
 
     <string name="moreMalunggay"><a href="https://en.wikipedia.org/wiki/Moringa_oleifera"> Wikipedia</a></string>
 
-    <!--  Malunggay -->
+    <!--Malunggay-->
+
+    <!--  Niyog-niyogan -->
+
+    <string name="title_activity_niyog_niyogan">Niyog-Niyogan</string>
+
+    <string name="headerNiyog_Niyogan">
+        <b>Plant Name:</b> Niyog-Niyogan \n
+        <b>Scientific Name:</b> Combretum indicum \n
+        <b>Family:</b> Combretaceae  \n
+    </string>
+
+    <string name="descriptionNiyog_Niyogan">Niyog-niyogan or Rangoon Creeper is an excellent vine for outdoor gardens. This ligneous plant, scientifically called Quisqualis indica L. It is also known as Burma or Rangoon Creeper, Liane Vermifuge and Chinese honeysuckle. Niyog-niyogan is perfect for covered walkways as it grows at least 2.5m long and reaches up to 8m long when it matures. This active climber, which belongs to the combretaceae family, grows best in tropical areas and demands constant sunlight. Perhaps due to its tropical characterization that it is found in primary and secondary forests of countries like Africa, China, Taiwan, Malaysia, Philippines, Vietnam, Papua New Guinea and other Asian regions.\n
+    </string>
+
+    <string name="benefitsNiyog_Niyogan">Almost all of its parts are used individually, or mixed with other ingredients, as remedy to different ailments. In the Philippines, these are taken to rid people of parasitic worms. Some also use these to help alleviate coughs and diarrhea. Medical experts, advice patients to consult their doctors as improper dosing may cause hiccups. Niyog-niyogan’s leaves are used to cure body pains by placing them on specific problematic areas of the body. Compound decoctions of the leaves of niyog-niyogan are used in India to alleviate flatulence. \n
+    </string>
+
+    <string name="useNiyog_Niyogan">●Get the seed from the parent plant and its withered fruit \n\n
+● Eat it; chew it well and follow with drinking a half full or 1 glass of water. \n\n
+● Dosage of seeds to eat based on patient’s age: 4-5 seeds (4-6 years old); 6-7 seeds (7-12 years old); 8-10 seeds (13 years old and above) \n\n
+● If there is still no worm that came out during a bowel movement, you may use the same dosage after 1 week. \n\n
+● Possible side effects especially after overeating seeds: nausea, hiccups, stomach ache, or diarrhea. Do not eat more than the recommended amount of seeds.\n
+    </string>
+
+    <string name="moreNiyog_Niyogan"><a href="https://en.wikipedia.org/wiki/Combretum_indicum"> Wikipedia</a></string>
+
+    <!--  Niyog-niyogan -->
+
+    <!-- Bayabas -->
+
+    <string name="title_activity_bayabas">Bayabas</string>
+
+    <string name="headerBayabas">
+        <b>Plant Name:</b> Bayabas \n
+        <b>Scientific Name:</b> Psidium guajava \n
+        <b>Family:</b> Myrtaceae \n
+    </string>
+
+    <string name="descriptionBayabas">Bayabas or guava is a tropical plant, which is locally known for its edible fruit. In the backyards of Filipino homes in the country, this plant is commonly seen, and grown because of its many uses as fruit and as traditional remedy to treat various ailments. As shown by many research studies, almost all of the parts of this plant have medicinal qualities and value, and thus, making it one of the most popular therapeutic plants in the Philippines. Bayabas is a small tree that can grow up to 3 meters tall with greenish-brownish smooth bark. The round globular bayabas fruit starts as a flower and is usually harvested and eaten while still green. The fruit turns yellowish-green and soft when ripe.\n
+    </string>
+
+    <string name="benefitsBayabas">● Antiseptic, astringent and anthelmintic \n\n
+● Kills bacteria, fungi and ameba \n\n
+● Used to treat diarrhea, nose bleeding \n\n
+● For Hypertension, diabetes and Asthma \n\n
+● Promotes menstruation \n\n
+● Prevents pimples, blackheads and skin blemishes. \n\n
+
+The fresh leaves are used to facilitate the healing of wounds and cuts. A decoction (boiling in water) or infusion of fresh leaves can be used for wound cleaning to prevent infection. Bayabas is also effective for toothaches. Note: Bayabas can cause constipation when consumed in excess. \n
+
+    </string>
+
+    <string name="useBayabas">● Boil one cup of Bayabas leaves in three cups of water for 8 to 10 minutes. Let cool. \n\n
+● Use decoction as mouthwash, gargle. \n\n
+● Use as wound disinfectant - wash affected areas with the decoction of leaves 2 to 3 times a day. Fresh leaves may be applied to the wound directly for faster healing. \n\n
+● For toothaches, chew the leaves in your mouth. \n\n
+● For diarrhea, boil the chopped leaves for 15 minutes in water, and strain. Let cool, and drink a cup every three to four hours. \n\n
+● To stop nosebleed, densely roll Bayabas leaves, then place in the nostril cavities. \n\n
+● For pimples and other skin disorders, apply to the skin with a cotton ball. \n
+    </string>
+
+    <string name="moreBayabas"><a href="https://en.wikipedia.org/wiki/Psidium_guajava"> Wikipedia</a></string>
+
+    <!--  Bayabas -->
+
+    <!-- Ampalaya -->
+
+    <string name="title_activity_ampalaya">Ampalaya</string>
+
+    <string name="headerAmpalaya">
+        <b>Plant Name:</b> Ampalaya \n
+        <b>Scientific Name:</b> Momordica charantia \n
+        <b>Family:</b> Cucurbitaceae \n
+    </string>
+
+    <string name="descriptionAmpalaya">Ampalaya (Bitter Melon) is a climbing vine and the tendrils of which grow up to 20 centimeters long. This herbal plant belongs to the family of Cucurbitaceae, and it is a tropical as well as a subtropical vine. Ampalaya leaves are heart-shaped, which are 5 to 10 centimeters in diameter. The fruits of the ampalaya vine are fleshy green with pointed ends at length. It can never be mistaken for any other variety because its ribbed and wrinkled surface had always been an ampalaya distinct physical structure. The bitter taste of the ampalaya fruit had also been the distinguishing factor from the rest of the fruits with medicinal value, and this is due to the presence of a substance known as momordicin.\n
+    </string>
+
+    <string name="benefitsAmpalaya">● Good for rheumatism and gout \n
+● And diseases of the spleen and liver \n
+● Aids in lowering blood sugar levels \n
+● Helps in lowering blood pressure \n
+● Relieves headaches \n
+● Disinfects and heals wounds and burns \n
+● Can be used as a cough and fever remedy \n
+● Treatment of intestinal worms, diarrhea \n
+● Helps prevent some types of cancer \n
+● Enhances immune system to fight infection \n
+● For treatment of hemorrhoids \n
+● Is an antioxidant and parasiticide \n
+● Is antibacterial and antipyretic \n
+
+
+    </string>
+
+    <string name="useAmpalaya"> ● Consult a health center for a formal diagnosis and medical advice for diabetes, including the use of ampalaya leaves (Makiling variety) to help control blood sugar levels \n\n
+● Health care professionals may advise patients to eat 1 cup of ampalaya leaves twice a day (as salad or as an ingredient in meals) \n\n
+● Health care professionals may also advise patients to boil 2 cups of sprouts in 2 glasses of water until only half of the water is left (around 15 minutes of boiling), and to drink ⅓ of the boiled water (decoction) thrice a day (30 minutes before meals) \n\n
+● For coughs, fever, worms, diarrhea, diabetes, juice Ampalaya leaves and drink a spoonful daily. \n\n
+● For other ailments, the fruit and leaves can both be juiced and taken orally. \n\n
+● For headaches wounds, burns and skin diseases, apply warmed leaves to afflicted area. \n\n
+● Powdered leaves, and the root decoction, may be used as stringent and applied to treat hemorrhoids. \n\n
+● Internal parasites are proven to be expelled when the ampalaya juice, made from its leaves, is extracted. The ampalaya juice, and grounded seeds is to be taken one spoonful thrice a day, which also treats diarrhea, dysentery, and chronic colitis. \n
+
+    </string>
+
+    <string name="moreAmpalaya"><a href="https://en.wikipedia.org/wiki/Momordica_charantia"> Wikipedia</a></string>
+
+    <!--  Ampalaya -->
+
+    <!-- Balbas-pusa -->
+    <string name="title_activity_balbas_pusa">Balbas-pusa</string>
+
+    <string name="headerBalbasPusa">
+        <b>Plant Name:</b> Balbas-pusa \n
+        <b>Scientific Name:</b> Orthosiphon aristatus \n
+        <b>Family:</b> Mint family (Lamiaceae)  \n
+    </string>
+
+    <string name="descriptionBalbasPusa"> It is commonly referred to as Java tea, is a tropical perennial plant that has a peculiar long white or purple, two-lipped flowers with protruding stamens, that give the flower its characteristic cat’s whiskers appearance. Balbas pusa has taken its niche in the folkloric herbal medicine believed to have benefits for kidney and bladder health. \n
+    </string>
+
+    <string name="benefitsBalbasPusa">●	Antioxidant \n
+●	Anti-inflammatory \n
+●	Antihypertensive \n
+●	Antidiabetic \n
+●	Antirheumatic \n
+●	Anti-gout \n
+●	Diuretic \n
+●	Neuroprotective, hepatoprotective and nephroprotective \n
+●	Anti-neuropathic/Anti-urolithiatic \n
+●	Anti-allergy \n
+●	Asthma and cough remedy \n
+●	Antibacterial \n
+●	Antifungal \n
+●	Antispasmodic \n
+●	Assists in weight loss \n
+●	Treats skin disorders/Maintains healthy skin \n
+●	Stress relief \n
+
+    </string>
+
+    <string name="useBalbasPusa">●	Wash fresh Balbas pusa or cat\'s whisker leaves \n
+●	Chop then add in 4 cups of water for every 1 cup  \n
+●	Let it boil for 10 to 15 minutes   \n
+●	Let it steep then strain. \n
+●	Drink half cup of balbas pusa tea also known as java tea three times a day.  \n
+●	Balbas pusa tea concoction can be stored in a suitable glass container for later consumption.  \n
+
+    </string>
+
+    <string name="moreBalbasPusa"><a href="https://en.wikipedia.org/wiki/Orthosiphon_aristatus"> Wikipedia</a></string>
+
+    <!--  Balbas-pusa -->
+
+    <!-- Lagundi -->
+    <string name="title_activity_lagundi">Lagundi</string>
+
+    <string name="headerLagundi">
+        <b>Plant Name:</b> Lagundi \n
+        <b>Scientific Name:</b> Vitex negundo \n
+        <b>Family:</b> Mint family (Lamiaceae)  \n
+    </string>
+
+    <string name="descriptionLagundi"> It is one of the ten herbal medicines endorsed by the Philippine Department of Health as an effective herbal medicine with proven therapeutic value. Commonly known in the Ilocos region as dangla, lagundi has been clinically tested to be effective in the treatment of colds, flu, fever, bronchial asthma, chronic bronchitis, and pharyngitis. \n
+    </string>
+
+    <string name="benefitsLagundi">● Relief of asthma and pharyngitis \n\n
+● Recommended relief of rheumatism, dyspepsia, boils, diarrhea \n\n
+● Treatment of cough, colds, fever and flu and other bronchopulmonary disorders \n\n
+● Alleviate symptoms of Chickenpox \n\n
+● Removal of worms, and boils \n
+
+    </string>
+
+    <string name="useLagundi">● Boil half cup of chopped fresh or dried leaves in 2 cups of water for 10 to 15 minutes. Drink half a cup three times a day. \n\n
+● For skin diseases or disorders, apply the decoction of leaves and roots directly on skin. \n\n
+● The root is specially good for treating dyspepsia, worms, boils, colic and rheumatism. \n\n
+A decoction (boiling in water) of the roots and leaves of Lagundi are applied to wounds, and used as aromatic baths for skin diseases. Boiled seeds are eaten in order to prevent the spreading of toxins and venom from bites of poisonous animals. Juice extracted from the flowers of the Lagundi plant is taken in as an aid for disorders like fever, diarrhea, liver disorders, and even cholera. While a decoction of the plant leaves is suggested to be taken by individuals to help increase the flow and production of milk, as well as to induce menstruation. \n
+
+
+    </string>
+
+    <string name="moreLagundi"><a href="https://en.wikipedia.org/wiki/Vitex_negundo"> Wikipedia</a></string>
+
+    <!--  Lagundi -->
+
+
+    <!-- Sambong -->
+    <string name="title_activity_sambong">Sambong</string>
+
+    <string name="headerSambong">
+        <b>Plant Name:</b> Sambong \n
+        <b>Scientific Name:</b> Blumea balsamifera \n
+        <b>Family:</b> Compositae \n
+    </string>
+
+    <string name="descriptionSambong"> Sambong is one herbal medicine (of ten) approved by the Philippine Department of Health (DOH) as an alternative medicine in treating particular disorders. It is known in the Visayas as bukadkad and as subsob in Ilocos. The plant is a strongly aromatic herb that grows tall and erect. Its height ranges from 1.5 to 3 meters, with stems that grow for up to 2.5 centimeters. It is an anti-urolithiasis and works as a diuretic. \n
+    </string>
+
+    <string name="benefitsSambong"> ● Good as a diuretic agent \n\n
+● Effective in the dissolving kidney stones \n\n
+● Aids in treating hypertension and rheumatism \n\n
+● Treatment of colds, cough and fever \n\n
+● Anti-diarrheic properties \n\n
+● Anti-gastralgic properties \n\n
+● Helps remove worms, boils \n\n
+● Relief of stomach pains \n\n
+● Treats dysentery, sore throat \n\n
+● Decoction mixed in bathing water for new mothers. \n
+
+    </string>
+
+    <string name="useSambong"> ● A decoction (boil in water) of Sambong leaves is like tea and you drink a glass 3 or 4 times a day. \n\n
+● The leaves can also be crushed or pounded and mixed with coconut oil. \n\n
+● For headaches, apply crushed and pounded leaves on the forehead and temples. \n\n
+● Decoction of leaves is used as a sponge bath. \n\n
+● Decoction of the roots, on the other hand, is to be taken in as a cure for fever. \n
+
+    </string>
+
+    <string name="moreSambong"><a href="https://en.wikipedia.org/wiki/Blumea_balsamifera"> Wikipedia</a></string>
+
+    <!--  Sambong -->
+
+    <!-- Ulasimang bato -->
+    <string name="title_activity_ulasimang_bato">Ulasimang Bato</string>
+
+    <string name="headerUlasimangBato">
+        <b>Plant Name:</b> Ulasimang Bato \n
+        <b>Scientific Name:</b> Peperomia pellucida Linn. \n
+        <b>Family:</b> Piperaceae \n
+    </string>
+
+    <string name="descriptionUlasimangBato"> Ulasimang bato is an herbal medicine also known as Pansit-pansitan, olasiman-ihalas and tangon-tangon in the Philippines. It is a small herb that grows from 1 to 1 1/2 feet. It can be found wild on lightly shaded and damp areas such as nooks, walls, yards and even roofs. Pansit-pansitan has heart shaped leaves, succulent stems with tiny flowers on a spike. When matured, the small fruits bear one seed which falls off the ground and propagates. \n
+    </string>
+
+    <string name="benefitsUlasimangBato"> ● Antibacterial \n\n
+●	Anticancer, antioxidant \n\n
+●	Depressant \n\n
+●	Anti-gout \n
+
+    </string>
+
+    <string name="useUlasimangBato">  Tips on how to control uric acid \n\n
+●	Consult a doctor at a health center to diagnose your symptoms, and to know the medicine for gout including how to use pansit pansitan to help in controlling your uric acid levels. \n\n
+●	The doctor may advise to eat 1 cup (not crammed) of leafy tops of pansit-pansitan thrice during the day (as a salad). Also, the doctor may advise to boil 1 1/2 glasses (or 3 cups), not crammed, of pansit-pansitan in 2 glasses of water until the water reduces to half (boil for around 15 minutes), and drink the 1/3 glass of boiled water thrice in the day after eating. \n
+
+    </string>
+
+    <string name="moreUlasimangBato"><a href="https://en.wikipedia.org/wiki/Peperomia_pellucida"> Wikipedia</a></string>
+
+    <!--  Ulasimang bato -->
+
+    <!-- Yerba -->
+    <string name="title_activity_yerba">Yerba</string>
+
+    <string name="headerYerba">
+        <b>Plant Name:</b> Yerba \n
+        <b>Scientific Name:</b>Clinopodium douglasii \n
+        <b>Family:</b> Mint family (Lamiaceae) \n
+    </string>
+
+    <string name="descriptionYerba"> It is an aromatic plant used as herbal medicine worldwide. This perennial plant’s growth ranges from 0.6 meters to 1 meter. It has elongated leaves and in summers, it bears small whitish or purplish flowers. Such flowers possess both male and female organs that allow it to be pollinated by bees and animals of the same nature. The word Yerba Buena is Spanish for "good herb" and was the former name of the California city of San Francisco. \n
+    </string>
+
+    <string name="benefitsYerba"> ● Arthritis \n\n
+● Headaches \n\n
+● Tooth aches \n\n
+● Mouth wash \n\n
+● Relief of intestinal gas \n\n
+● Stomach aches \n\n
+● Indigestion \n\n
+● Drink tea for general good health. \n
+
+
+    </string>
+
+    <string name="useYerba">  <b>For toothaches </b>
+●	Boil the grinded and freshly picked yerba buena leaves in a pot filled with 2 glasses of water until the pot is only left with half filled of water. Keep the lid off the pot after bringing it to a boil. \n\n
+●	 Let it cool completely and then strain it. \n\n
+●	 Divide it into 2 portions. Drink 1 portion, and drink another 1 portion after 3-4 hours if the pain still persists. \n\n
+●	 Dosage of minced sambong leaves based on patient’s age: 3 tablespoons (7-12 years old); 6 tablespoons (13 years old and above) \n\n
+●	 Visit a health center and consult about your illness if the toothache still persists. \n\n
+
+<b> Headache </b> \n\n
+●	 Compress or crush freshly picked leaves and use the extract in massaging the forehead and top of head. \n\n
+●	Consult with a health center if the headache still persists. \n
+
+    </string>
+
+    <string name="moreYerba"><a href="https://en.wikipedia.org/wiki/Clinopodium_douglasii"> Wikipedia</a></string>
+
+    <!--  Yerba -->
+
 
 </resources>

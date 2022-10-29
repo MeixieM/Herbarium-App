@@ -17,6 +17,46 @@
         android:theme="@style/Theme.Herbarium"
         tools:targetApi="31">
         <activity
+            android:name=".YerbaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_yerba"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".UlasimangBatoActivity"
+            android:exported="false"
+            android:label="@string/title_activity_ulasimang_bato"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".SambongActivity"
+            android:exported="false"
+            android:label="@string/title_activity_sambong"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".LagundiActivity"
+            android:exported="false"
+            android:label="@string/title_activity_lagundi"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".BalbasPusaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_balbas_pusa"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".AmpalayaActivity"
+            android:exported="false"
+            android:label="@string/title_activity_ampalaya"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".BayabasActivity"
+            android:exported="false"
+            android:label="@string/title_activity_bayabas"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
+            android:name=".NiyogNiyoganActivity"
+            android:exported="false"
+            android:label="@string/title_activity_niyog_niyogan"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
             android:name=".MalunggayActivity"
             android:exported="false"
             android:label="@string/title_activity_malunggay"

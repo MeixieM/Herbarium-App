@@ -115,6 +115,30 @@ public class MainActivity extends AppCompatActivity {
                 } else if (result.getText() == "Malunggay") {
                     Intent intent = new Intent(MainActivity.this, MalunggayActivity.class);
                     startActivity(intent);
+                } else if (result.getText() == "Niyog-niyogan") {
+                    Intent intent = new Intent(MainActivity.this, NiyogNiyoganActivity.class);
+                    startActivity(intent);
+                }    else if (result.getText() == "Bayabas") {
+                        Intent intent = new Intent(MainActivity.this, BayabasActivity.class);
+                        startActivity(intent);
+                } else if (result.getText() == "Ampalaya") {
+                    Intent intent = new Intent(MainActivity.this, AmpalayaActivity.class);
+                    startActivity(intent);
+                } else if (result.getText() == "Balbas-pusa") {
+                    Intent intent = new Intent(MainActivity.this, BalbasPusaActivity.class);
+                    startActivity(intent);
+                } else if (result.getText() == "Lagundi") {
+                    Intent intent = new Intent(MainActivity.this, LagundiActivity.class);
+                    startActivity(intent);
+                }  else if (result.getText() == "Sambong") {
+                    Intent intent = new Intent(MainActivity.this, SambongActivity.class);
+                    startActivity(intent);
+                } else if (result.getText() == "Ulasimang bato") {
+                    Intent intent = new Intent(MainActivity.this, UlasimangBatoActivity.class);
+                    startActivity(intent);
+                } else if (result.getText() == "Yerba") {
+                    Intent intent = new Intent(MainActivity.this, YerbaActivity.class);
+                    startActivity(intent);
                 }
 
             }
@@ -159,7 +183,7 @@ public class MainActivity extends AppCompatActivity {
                     maxPos = i;
                 }
             }
-            String[] classes = {"Akapulko", "Ampalaya", "Balbas-pusa", "Guava", "Lagundi", "Malunggay", "Niyog-niyogan", "Oregano", "Sambong", "Tsaang gubat",
+            String[] classes = {"Akapulko", "Ampalaya", "Balbas-pusa", "Bayabas", "Lagundi", "Malunggay", "Niyog-niyogan", "Oregano", "Sambong", "Tsaang gubat",
                     "Ulasimang bato", "Yerba"};
             result.setText(classes[maxPos]);
             details.setVisibility(View.VISIBLE);
