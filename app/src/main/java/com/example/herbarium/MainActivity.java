@@ -109,6 +109,9 @@ public class MainActivity extends AppCompatActivity {
                 } else if (result.getText() == "Tsaang gubat") {
                     Intent intent = new Intent(MainActivity.this, TsaangGubatActivity.class);
                     startActivity(intent);
+                } else if (result.getText() == "Oregano") {
+                    Intent intent = new Intent(MainActivity.this, OreganoActivity.class);
+                    startActivity(intent);
                 }
 
             }

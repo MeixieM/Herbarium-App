@@ -13,7 +13,6 @@
     <string name="titleMore"><b>More Information</b></string>
 
 
-
     <string name="title_activity_akapulko">Akapulko</string>
     <string name="headerAkapulko">
         <b>Plant Name:</b> Akapulko \n
@@ -178,7 +177,6 @@ Because some states/countries do not allow certain limitations of liability, thi
     </string>
 
 
-
     <!--Tsaang Gubat-->
 
     <string name="title_activity_tsaang_gubat">Tsaang gubat</string>
@@ -213,4 +211,50 @@ Because some states/countries do not allow certain limitations of liability, thi
 
     <string name="moreTG"><a href="https://en.wikipedia.org/wiki/Ehretia_microphylla"> Wikipedia</a></string>
     <!--    Tsaang Gubat -->
+
+
+    <!--Oregano-->
+    <string name="title_activity_oregano">Oregano</string>
+
+    <string name="headerOregano">
+        <b>Plant Name:</b> Oregano \n
+        <b>Scientific Name:</b>  Origanum vulgare \n
+        <b>Family:</b> Mint family (Lamiaceae) \n
+    </string>
+
+    <string name="descriptionOregano">Oregano is also known as Wild Marjoram, Mountain Mint, Origanum, Wintersweet and Winter Marjoram. This erectly spreading plant has strong aromatic characteristics, with leaves and stems that are fleshy. The leaves of oregano are heart-shaped, with toothed edges, and which, grow up to 9 meters in length. In other countries, the plant is primarily used as a culinary ingredient. However, in countries like the Philippines, Oregano is a known herbal medicine for its strong anti-oxidant properties. \n
+    </string>
+
+    <string name="benefitsOregano"> • Good for cough and cold relief \n\n
+• Helps prevent degenerative arthritis \n\n
+• Has Anti-aging properties \n\n
+• Helps relieve rheumatism and osteoarthritis \n\n
+• Bronchitis herbal remedy \n\n
+• Ease asthma attacks \n\n
+• Relieves upset stomach \n\n
+• Treatment of urinary tract problems \n\n
+• Relief for dyspepsia or indigestion \n\n
+• Healing wounds, insect bites and stings \n\n
+• Cure for sore throat \n\n
+• Avoid infections caused by childbirth by taking decoctions of the leaves by the recent mother. \n\n
+• For general good health \n\n
+
+
+
+    </string>
+
+    <string name="useOregano">• Boil one cup of fresh leaves in 3 cups of water for 10 to 15 minutes. Drink half a cup 3 times a day for common colds. \n\n
+• For a concentrate, juice the oregano leaves and take 1 tablespoon every hour to relieve chronic coughs, rheumatism, bronchitis, asthma, and dyspepsia. \n\n
+• For Insect bites, wounds and stings, apply the leaves as a poultice directly on the afflicted area. \n\n
+• For sore throat, boil 2 tablespoonfuls of dried oregano leaves in a pint of water, take 2 hours before or after meals. \n\n
+• To prevent degenerative arthritis and for general good health drink oregano decoction daily. \n\n
+
+
+
+    </string>
+
+
+    <string name="moreOregano"><a href="https://en.wikipedia.org/wiki/Oregano"> Wikipedia</a></string>
+
+    <!--  Oregano -->
 </resources>
