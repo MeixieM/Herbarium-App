@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".TsaangGubatActivity"
+    tools:showIn="@layout/activity_tsaang_gubat">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        >
+
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/headerTsaangGubat"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/txt_title_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_description"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/titleDescription"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv1"
+            />
+
+        <TextView
+            android:id="@+id/txtDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/DescriptionTG"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_title_description"
+            />
+
+
+        <TextView
+            android:id="@+id/text_title_benefits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_benefits"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/titleBenefits"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txtDescription"
+            />
+
+        <TextView
+            android:id="@+id/txtBenefits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/BenefitsTG"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/text_title_benefits"
+            />
+
+
+        <TextView
+            android:id="@+id/txt_title_preperation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_preperation"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/titleUse"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txtBenefits"
+            />
+
+        <TextView
+            android:id="@+id/txtPreperation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/useTG"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_title_preperation"
+            />
+
+        <TextView
+            android:id="@+id/txt_title_more"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_preperation"
+            android:padding="10dp"
+            android:textColor="@color/primary_green"
+            android:text="@string/titleMore"
+            android:textSize="18dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txtPreperation"
+            />
+
+        <TextView
+            android:id="@+id/txtMore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_wiki"
+            android:text="@string/moreTG"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txt_title_more"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</androidx.core.widget.NestedScrollView>

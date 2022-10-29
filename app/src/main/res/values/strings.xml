@@ -5,6 +5,14 @@
     <string name="home_btn_tips"> \t <b>Tips on taking pictures</b> \n \t Tap here to learn more</string>
     <!--Home Activity -->
 
+    <!--Akapulko-->
+
+    <string name="titleDescription"><b>Description</b></string>
+    <string name="titleBenefits"><b>Benefits and Treatment</b></string>
+    <string name="titleUse"><b>Preparation and Use</b></string>
+    <string name="titleMore"><b>More Information</b></string>
+
+
 
     <string name="title_activity_akapulko">Akapulko</string>
     <string name="headerAkapulko">
@@ -49,6 +57,7 @@ It should be noted that the pounded leaves of this plant may be applied thinly o
 
     <string name="txt_title_more"><b>More Information:</b></string>
     <string name="large_text4"><a href="https://en.wikipedia.org/wiki/Senna_alata"> Wikipedia</a></string>
+    <!--    Akapulko -->
 
 
     <string name="large_text">
@@ -169,4 +178,39 @@ Because some states/countries do not allow certain limitations of liability, thi
     </string>
 
 
+
+    <!--Tsaang Gubat-->
+
+    <string name="title_activity_tsaang_gubat">Tsaang gubat</string>
+    <string name="headerTsaangGubat">
+        <b>Plant Name:</b> Tsaang Gubbbat \n
+        <b>Scientific Name:</b> Carmona retusa \n
+        <b>Family:</b> Boraginaceae \n
+    </string>
+
+    <string name="DescriptionTG">Also known as ringworm bush, the scientific name of akapulko is Cassia alata or Senna alata. It is basically a shrub that is found all throughout the Philippines under different names, depending on the region. \n
+    </string>
+
+    <string name="BenefitsTG"> • Stomach pains \n\n
+• Gastroenteritis \n\n
+• Intestinal motility \n\n
+• Dysentery \n\n
+• Diarrhea or Loose Bowel Movement (LBM) \n\n
+• Mouth gargle \n\n
+• Body cleanser/wash \n\n
+
+
+    </string>
+
+    <string name="useTG">• Thoroughly wash the leaves of tsaang gubat in running water. Chop to a desirable size and boil 1 cup of chopped leaves in 2 cups of water. Boil in low heat for 15 to 20 minutes and drain. \n\n
+• Take a cupful every 4 hours for diarrhea, gastroenteritis and stomach pains.\n\n
+• Gargle for stronger teeth and prevent cavities.\n\n
+• Drink as tea daily for general good health.\n\n
+
+
+    </string>
+
+
+    <string name="moreTG"><a href="https://en.wikipedia.org/wiki/Ehretia_microphylla"> Wikipedia</a></string>
+    <!--    Tsaang Gubat -->
 </resources>

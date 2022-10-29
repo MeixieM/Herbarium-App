@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.herbarium" >
+    package="com.example.herbarium">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,16 +15,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Herbarium"
-        tools:targetApi="31" >
+        tools:targetApi="31">
+        <activity
+            android:name=".TsaangGubatActivity"
+            android:exported="false"
+            android:label="@string/title_activity_tsaang_gubat"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
         <activity
             android:name=".TOSActivity"
             android:exported="false"
             android:label="@string/title_activity_tosactivity"
-            android:theme="@style/Theme.Herbarium.NoActionBar" />
-        <activity
-            android:name=".AmpalayaActivity"
-            android:exported="false"
-            android:label="@string/title_activity_ampalaya"
             android:theme="@style/Theme.Herbarium.NoActionBar" />
         <activity
             android:name=".AkapulkoActivity"
@@ -45,7 +45,7 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".SplashActivity"
-            android:exported="true" >
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

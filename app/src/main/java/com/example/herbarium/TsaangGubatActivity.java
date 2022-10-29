@@ -9,19 +9,21 @@ import com.google.android.material.snackbar.Snackbar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import android.text.method.LinkMovementMethod;
 import android.view.View;
+import android.widget.TextView;
 
-import com.example.herbarium.databinding.ActivityAmpalayaBinding;
+import com.example.herbarium.databinding.ActivityTsaangGubatBinding;
 
-public class AmpalayaActivity extends AppCompatActivity {
-
-    private ActivityAmpalayaBinding binding;
+public class TsaangGubatActivity extends AppCompatActivity {
+    TextView linkTextView;
+    private ActivityTsaangGubatBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        binding = ActivityAmpalayaBinding.inflate(getLayoutInflater());
+        binding = ActivityTsaangGubatBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
         Toolbar toolbar = binding.toolbar;
@@ -29,13 +31,7 @@ public class AmpalayaActivity extends AppCompatActivity {
         CollapsingToolbarLayout toolBarLayout = binding.toolbarLayout;
         toolBarLayout.setTitle(getTitle());
 
-        FloatingActionButton fab = binding.fab;
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
+        linkTextView = findViewById(R.id.txtMore);
+        linkTextView.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }
