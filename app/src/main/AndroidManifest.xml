@@ -17,6 +17,11 @@
         android:theme="@style/Theme.Herbarium"
         tools:targetApi="31">
         <activity
+            android:name=".MalunggayActivity"
+            android:exported="false"
+            android:label="@string/title_activity_malunggay"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
             android:name=".OreganoActivity"
             android:exported="false"
             android:label="@string/title_activity_oregano"

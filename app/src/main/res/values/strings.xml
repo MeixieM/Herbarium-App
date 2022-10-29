@@ -240,7 +240,6 @@ Because some states/countries do not allow certain limitations of liability, thi
 • For general good health \n\n
 
 
-
     </string>
 
     <string name="useOregano">• Boil one cup of fresh leaves in 3 cups of water for 10 to 15 minutes. Drink half a cup 3 times a day for common colds. \n\n
@@ -249,12 +248,35 @@ Because some states/countries do not allow certain limitations of liability, thi
 • For sore throat, boil 2 tablespoonfuls of dried oregano leaves in a pint of water, take 2 hours before or after meals. \n\n
 • To prevent degenerative arthritis and for general good health drink oregano decoction daily. \n\n
 
-
-
     </string>
-
 
     <string name="moreOregano"><a href="https://en.wikipedia.org/wiki/Oregano"> Wikipedia</a></string>
 
     <!--  Oregano -->
+
+
+    <!--Malunggay-->
+    <string name="title_activity_malunggay">Malunggay</string>
+
+    <string name="headerMalunggay">
+        <b>Plant Name:</b> Malunggay \n
+        <b>Scientific Name:</b>  Moringa oleifera \n
+        <b>Family:</b> Moringaceae  \n
+    </string>
+
+    <string name="descriptionMalunggay">The malunggay plant is known to different parts of the world under various names including, but not limited to, horseradish tree, drumstick tree, and dool in some regions. It is one of the more popular and publicized plants that is acknowledged to have nutritional, as well as, medicinal value. It is rich in vitamins A, B and C, minerals such as iron and amino acids. Fortunately, the plant is easily accessible as it can be found not only as part of the wild life, but also in the backyards of many Filipino homes. \n
+    </string>
+
+    <string name="benefitsMalunggay">The leaves of this plant proved to be a good source of calcium, iron, ascorbic acid and phosphorus. Its other parts such as the seeds, the young pods, and the flowers have been established to benefit individuals as far as antioxidant, anti-diabetic, circulatory stimulations, and such other activities that are most beneficial to mankind, are concerned. There have been claims that malunggay can be used to lower blood pressure, aid in pains caused by rheumatism, headaches and migraines, as well as its being an anti-tumor plant. Malunggay is also used for purgative and anti-fungal purposes, as well. The leaves can be applied to minor wounds for faster healing. It can also relieve indigestion by drinking a concoction of its leaves or mixed with food. All these prove the claim that this plant is indeed multi-purpose. \n
+    </string>
+
+    <string name="useMalunggay">To harness the benefits of dried malunggay leaves, you must first dry them. To do so, collect malunggay stems. Wash your collected Moringa with baking soda solution. To create the solution, mix 2 tablespoons of baking soda with 1 liter of water. After washing the malunggay, air-dry it. Do not place it under direct sunlight. You can even dry it indoors for 2 to 3 days. \n\n
+        Once the malunggay is completely dry, the leaves will fall off. To hasten the process, shake the stem and collect the leaves. Now that you have the dried leaves, crush them with your clean hands, and store them in an airtight container. \n\n
+        Use the dried leaves by mixing it into your dough for bread and noodles. You can also add it in hot water to enjoy instant tea, or you can simply sprinkle it on your dishes. \n
+    </string>
+
+    <string name="moreMalunggay"><a href="https://en.wikipedia.org/wiki/Moringa_oleifera"> Wikipedia</a></string>
+
+    <!--  Malunggay -->
+
 </resources>

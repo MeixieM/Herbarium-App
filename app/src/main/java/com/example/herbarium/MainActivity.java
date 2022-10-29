@@ -112,6 +112,9 @@ public class MainActivity extends AppCompatActivity {
                 } else if (result.getText() == "Oregano") {
                     Intent intent = new Intent(MainActivity.this, OreganoActivity.class);
                     startActivity(intent);
+                } else if (result.getText() == "Malunggay") {
+                    Intent intent = new Intent(MainActivity.this, MalunggayActivity.class);
+                    startActivity(intent);
                 }
 
             }
