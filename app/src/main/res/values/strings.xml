@@ -573,5 +573,34 @@ A decoction (boiling in water) of the roots and leaves of Lagundi are applied to
 
     <!--  Yerba -->
 
+    <!--    Guide -->
+    <string name="title_activity_guide">Guide</string>
+
+    <string name="guideHeader"><b>How to use Herbarium:\n</b>
+    To identify a Medicinal plant, simply take a picture of the plant leaf or select a plant leaf picture from your "Gallery" and Herbarium will identify it instantly! \n\n
+
+    <b>Tips on taking pictures:</b>\n
+    A clear shot of plants leaf with proper angle and distance will help Herbarium identify Medicinal plants more accurately.\n\n
+    </string>
+
+    <string name="step1"> <b>1. Single leaf only\n</b>
+    DO NOT put so much object in the photo, you only need one leaf.
+    </string>
+
+    <string name="step2"> <b>2. Bright and clear\n</b>
+   	Make sure the picture you take or select in the gallery is Bright and Clear enough to identify. You\'ll have better result from that.
+    </string>
+
+    <string name="step3"> <b>3. In the middle rule\n</b>
+   Put your leaf into the center of the frame
+    </string>
+
+    <string name="step4"> <b>4. Stay Original\n</b>
+   DO NOT edit or adjust any effect on your photo, you only need the original one.
+    </string>
+
+
+
+    <!--    Guide -->
 
 </resources>
