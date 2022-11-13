@@ -40,14 +40,14 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:layout_marginRight="50dp"
-            android:src="@drawable/green_button"
+            android:src="@drawable/btn_akapulko"
             />
 
         <ImageView
             android:id="@+id/ampalaya"
             android:layout_width="120dp"
             android:layout_height="120dp"
-            android:src="@drawable/green_button" />
+            android:src="@drawable/btn_ampalaya" />
 
         </LinearLayout>
 
@@ -66,14 +66,14 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginRight="50dp"
-                android:src="@drawable/yellow_button"
+                android:src="@drawable/btn_balbaspusa"
                 />
 
             <ImageView
                 android:id="@+id/bayabas"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/green_button" />
+                android:src="@drawable/btn_bayabas" />
 
         </LinearLayout>
 
@@ -92,14 +92,14 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginRight="50dp"
-                android:src="@drawable/yellow_button"
+                android:src="@drawable/btn_lagundi"
                 />
 
             <ImageView
                 android:id="@+id/malunggay"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/green_button" />
+                android:src="@drawable/btn_malunggay" />
 
         </LinearLayout>
 
@@ -118,14 +118,14 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginRight="50dp"
-                android:src="@drawable/yellow_button"
+                android:src="@drawable/btn_niyog_niyogan"
                 />
 
             <ImageView
                 android:id="@+id/oregano"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/green_button" />
+                android:src="@drawable/btn_oregano" />
 
         </LinearLayout>
 
@@ -144,14 +144,14 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginRight="50dp"
-                android:src="@drawable/yellow_button"
+                android:src="@drawable/btn_sambong"
                 />
 
             <ImageView
                 android:id="@+id/tsaang_gubat"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/green_button" />
+                android:src="@drawable/btn_tsaang_gubat" />
 
         </LinearLayout>
 
@@ -162,7 +162,7 @@
             android:layout_below="@+id/linear1_category_layout"
             android:layout_centerHorizontal="true"
             android:paddingTop="800dp"
-            android:paddingBottom="100dp"
+            android:paddingBottom="50dp"
             android:gravity="center"
             android:orientation="horizontal" >
 
@@ -171,14 +171,14 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginRight="50dp"
-                android:src="@drawable/yellow_button"
+                android:src="@drawable/btn_ulasimang_bato"
                 />
 
             <ImageView
                 android:id="@+id/yerba"
                 android:layout_width="120dp"
                 android:layout_height="120dp"
-                android:src="@drawable/green_button" />
+                android:src="@drawable/btn_yerba" />
 
         </LinearLayout>
 
