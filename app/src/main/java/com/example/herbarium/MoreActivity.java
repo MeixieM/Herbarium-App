@@ -29,7 +29,7 @@ public class MoreActivity extends AppCompatActivity {
         bottomNavigationView.setSelectedItemId(R.id.more);
 
         buttonTips = findViewById(R.id.btn_tips);
-        buttonFAQ = findViewById(R.id.btn_faq);
+//        buttonFAQ = findViewById(R.id.btn_faq);
         buttonTOS = findViewById(R.id.btn_tos);
 
         bottomNavigationView.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
@@ -37,12 +37,16 @@ public class MoreActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
                 switch(item.getItemId()){
-                    case R.id.camera:
-                        startActivity(new Intent(getApplicationContext(),MainActivity.class));
-                        overridePendingTransition(0,0);
-                        return true;
                     case R.id.home:
                         startActivity(new Intent(getApplicationContext(),HomeActivity.class));
+                        overridePendingTransition(0,0);
+                        return true;
+                    case R.id.plants:
+                        startActivity(new Intent(getApplicationContext(),PlantsActivity.class));
+                        overridePendingTransition(0,0);
+                        return true;
+                    case R.id.camera:
+                        startActivity(new Intent(getApplicationContext(),MainActivity.class));
                         overridePendingTransition(0,0);
                         return true;
                     case R.id.more:
@@ -52,13 +56,13 @@ public class MoreActivity extends AppCompatActivity {
             }
         });
 
-//        buttonTips.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(MoreActivity.this, TipsActivity.class);
-//                startActivity(intent);
-//            }
-//        });
+        buttonTips.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MoreActivity.this, GuideActivity.class);
+                startActivity(intent);
+            }
+        });
 //
 //        buttonFAQ.setOnClickListener(new View.OnClickListener() {
 //            @Override

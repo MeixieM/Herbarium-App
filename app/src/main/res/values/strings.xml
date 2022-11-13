@@ -598,7 +598,7 @@ A decoction (boiling in water) of the roots and leaves of Lagundi are applied to
     <string name="step4"> <b>4. Stay Original\n</b>
    DO NOT edit or adjust any effect on your photo, you only need the original one.
     </string>
-
+    <string name="title_activity_plants">PlantsActivity</string>
 
 
     <!--    Guide -->

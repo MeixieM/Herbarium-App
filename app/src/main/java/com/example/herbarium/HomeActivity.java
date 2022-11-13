@@ -53,11 +53,15 @@ public class HomeActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
                 switch(item.getItemId()){
+                    case R.id.home:
+                        return true;
+                    case R.id.plants:
+                        startActivity(new Intent(getApplicationContext(),PlantsActivity.class));
+                        overridePendingTransition(0,0);
+                        return true;
                     case R.id.camera:
                         startActivity(new Intent(getApplicationContext(),MainActivity.class));
                         overridePendingTransition(0,0);
-                        return true;
-                    case R.id.home:
                         return true;
                     case R.id.more:
                         startActivity(new Intent(getApplicationContext(),MoreActivity.class));
@@ -68,13 +72,13 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-//        buttonhome.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(HomeActivity.this, TipsActivity.class);
-//                startActivity(intent);
-//            }
-//        });
+        buttonhome.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(HomeActivity.this, GuideActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }

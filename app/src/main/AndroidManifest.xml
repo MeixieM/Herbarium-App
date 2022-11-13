@@ -17,6 +17,11 @@
         android:theme="@style/Theme.Herbarium"
         tools:targetApi="31">
         <activity
+            android:name=".PlantsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_plants"
+            android:theme="@style/Theme.Herbarium.NoActionBar" />
+        <activity
             android:name=".GuideActivity"
             android:exported="false"
             android:label="@string/title_activity_guide"

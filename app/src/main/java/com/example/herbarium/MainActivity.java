@@ -58,11 +58,15 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
 
                 switch(item.getItemId()){
-                    case R.id.camera:
-                        return true;
                     case R.id.home:
                         startActivity(new Intent(getApplicationContext(),HomeActivity.class));
                         overridePendingTransition(0,0);
+                        return true;
+                    case R.id.plants:
+                        startActivity(new Intent(getApplicationContext(),PlantsActivity.class));
+                        overridePendingTransition(0,0);
+                        return true;
+                    case R.id.camera:
                         return true;
                     case R.id.more:
                         startActivity(new Intent(getApplicationContext(),MoreActivity.class));

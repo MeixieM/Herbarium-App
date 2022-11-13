@@ -33,7 +33,7 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_camera.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_faqactivity.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_guide.xml" value="0.21077383497221033" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_lagundi.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_list_item.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_main.xml" value="0.4" />
@@ -41,6 +41,7 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_more.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_niyog_niyogan.xml" value="0.21077383497221033" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_oregano.xml" value="0.2013681060282172" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_plants.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_sambong.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_splash.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/activity_tips.xml" value="0.24270833333333333" />
@@ -62,6 +63,7 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/malunggay_scrolling.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/niyog_niyogan_scrolling.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/oregano_scrolling.xml" value="0.2013681060282172" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/plants_scrolling.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/sambong_scrolling.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/tsaang_gubat_scrolling.xml" value="0.2013681060282172" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/layout/ulasimang_bato_scrolling.xml" value="0.2013681060282172" />
@@ -78,6 +80,7 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_malunggay.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_niyog_niyogan.xml" value="0.21077383497221033" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_oregano.xml" value="0.21077383497221033" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_plants.xml" value="0.21077383497221033" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_sambong.xml" value="0.21077383497221033" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_scrolling.xml" value="0.21077383497221033" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Herbarium/app/src/main/res/menu/menu_t_o.xml" value="0.2162280701754386" />
